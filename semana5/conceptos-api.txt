@@ -1,0 +1,8 @@
+QUE HACE ESTA RUTA
+esta ruta POST recibe informacioan enviada por el usuario a la direccion /reporte
+toma el dato llamado "mensaje" que viene en el cuerpo de la solicitud (req.body)
+y responde con un objeto JSON indicando que el reporte fue recibido junto con el mensaje enviado
+PARA QUE PODRIA SERVIR EN UNA APLICACION COMUNITARIA
+podria servir para que los ciudadanos envien reportes sobre problemas de la comunidad,como daños
+en las vias,fallas en el alumbrado publico o situaciones de seguridad. la aplicacion 
+recibiria estos reportes y podria almacenarlos o enviarlos a las autoridades que corresponden.
